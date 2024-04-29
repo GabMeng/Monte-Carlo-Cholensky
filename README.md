@@ -1,0 +1,1 @@
+This repository contains a Python script that implements Cholesky decomposition to generate correlated random variables and performs Monte Carlo simulations using the decomposed data. The script is designed to be a useful tool for generating correlated samples for various statistical analyses and simulations.
